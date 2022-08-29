@@ -1,6 +1,6 @@
 Data visualization using matplotlib
 
-Project này chỉ hướng dẫn cơ bản về thư viện matplotlib, các sử dụng matplotlib để trình bày một số loại biểu đồ đơn giản và một tip nho nhỏ với thư viện này.
+Project này chỉ hướng dẫn cơ bản về thư viện matplotlib, cách sử dụng matplotlib để trình bày một số loại biểu đồ đơn giản và một vài tip nho nhỏ với thư viện này.
 
 Python với mình có nhiều kỉ niệm. Project này là một món quà nhỏ ...
 
